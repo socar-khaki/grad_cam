@@ -3,7 +3,7 @@ grad_cam 논문에 나오는 figure과 똑같이 찍히도록 구현해둔 코�
 
 # Grad_cam_resnet
 
-Resnet을 architecture로 사용했을때 code입니다.
+ResNet을 architecture로 사용했을때 code입니다.
 
 # Grad_cam_pmg
 
