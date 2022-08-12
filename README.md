@@ -1,11 +1,11 @@
 # grad_cam
 grad_cam 논문에 나오는 figure과 똑같이 찍히도록 구현해둔 코드입니다
 
-# Grad_cam_resnet
+## Grad_cam_resnet
 
 ResNet을 architecture로 사용했을때 code입니다.
 
-# Grad_cam_pmg
+## Grad_cam_pmg
 
 pmg를 architecture로 사용했을때 code입니다.
 
